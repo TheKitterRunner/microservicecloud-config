@@ -7,11 +7,10 @@ spring:
 spring:
   profiles: dev    #开发环境
   application: 
-    name: microservicecloud-config-ruisiyuan-dev
+    name: microservicecloud-config-nico-dev
 
 ---
 spring:
   profiles: test    #测试环境
   application: 
-    name: microservicecloud-config-ruisiyuan-test
- # 请保存为UTF-8格式
+    name: microservicecloud-config-nico-test
